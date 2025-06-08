@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/andrewma/oop/assignment-one/output/main'
+relocations:     []
+...
